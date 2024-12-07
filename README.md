@@ -1,18 +1,53 @@
-# SafeMailAI
+**SpamDetectorAI: Intelligent and Friendly Email Protection**
 
-SafeMailAI is a powerful email classification tool that leverages NLP and machine learning to protect your inbox from spam. With an intuitive interface built on Streamlit, it accurately identifies and filters spam, ensuring a secure and clutter-free email experience.
+**SpamDetectorAI** is an advanced email classification tool powered by NLP and machine learning to protect your inbox. With a modern and user-friendly interface built using Streamlit, it ensures a secure and clutter-free email experience by filtering out spam effectively.
+
+**Features**
+
+**Smart Email Filtering:** Easily classify emails as Spam or Not Spam.
+
+**Performance Metrics:** Evaluate model accuracy, explore the confusion matrix, and review detailed classification reports.
+
+**Intuitive Design:** Results are visually highlighted: red for Spam and green for Not Spam.
 
 
-## Features
+Installation
 
-- **Email Classification**: Enter an email and classify it as either Spam or Not Spam.
-- **Model Performance**: View accuracy, confusion matrix, and classification report on the dataset.
-- **User-Friendly Interface**: The result is displayed with a colored background to clearly indicate whether an email is Spam (red) or Not Spam (green).
+Follow these steps to set up SpamDetectorAI on your system:
 
-## Installation
+***1. Clone the Repository***
 
-### 1. Clone the Repository
+Use the following commands to clone the repository to your local machine:
 
-```bash
-git clone https://github.com/your-username/spam-email-classifier.git
-cd spam-email-classifier
+git clone https://github.com/your-username/spamdetectorai.git  
+cd spamdetectorai
+
+***2. Create a Virtual Environment***
+
+Set up a virtual environment to manage dependencies:
+
+python -m venv env  
+source env/bin/activate  # For Linux/Mac  
+env\Scripts\activate     # For Windows
+
+***3. Install Dependencies***
+
+Install the required packages from the requirements.txt file:
+
+pip install -r requirements.txt
+
+***4. Run the Application***
+
+Launch the Streamlit app using the command:
+
+streamlit run app.py
+
+***5. Open the Application***
+
+Access SpamDetectorAI in your web browser at:
+
+http://localhost:8501
+
+You're now ready to use SpamDetectorAI for secure and efficient email classification!
+
+ 
