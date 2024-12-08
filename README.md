@@ -1,6 +1,6 @@
 # SpamDetectorAI: Intelligent and Friendly Email Protection 
 
-***SpamDetectorAI*** is an advanced email classification tool powered by NLP and machine learning to protect your inbox. With a modern and user-friendly interface built using Streamlit, it ensures a secure and clutter-free email experience by filtering out spam effectiveness 
+***SpamDetectorAI*** is an advanced email classification tool powered by NLP and machine learning to protect your inbox. With a modern and user-friendly interface built using Streamlit, it ensures a secure and clutter-free email experience by filtering out spam effectively.
 
 ## Features
 
