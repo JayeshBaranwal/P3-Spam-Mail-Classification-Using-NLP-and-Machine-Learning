@@ -55,6 +55,3 @@ Launch the Streamlit app using the command:
 streamlit run app.py
 ```
 
-
-# Happy Coding 
- 
