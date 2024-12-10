@@ -4,11 +4,14 @@
 
 ## Features
 
-***Smart Email Filtering:*** Easily classify emails as Spam or Not Spam.
+***Smart Email Filtering:*** 
+Easily classify emails as Spam or Not Spam.
 
-***Performance Metrics:*** Evaluate model accuracy, explore the confusion matrix, and review detailed classification reports.
+***Performance Metrics:*** 
+Evaluate model accuracy, explore the confusion matrix, and review detailed classification reports.
 
-***Intuitive Design:*** Results are visually highlighted: red for Spam and green for Not Spam.
+***Intuitive Design:*** 
+**Results are visually highlighted:** red for Spam and green for Not Spam.
 
 
 ### Installation
