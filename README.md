@@ -55,6 +55,6 @@ Launch the Streamlit app using the command:
 streamlit run app.py
 ```
 
-You're now ready to use SpamDetectorAI for secure and efficient email classification!
 
+# HAPPY CODING 
  
