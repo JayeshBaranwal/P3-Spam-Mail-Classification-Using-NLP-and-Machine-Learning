@@ -56,5 +56,5 @@ streamlit run app.py
 ```
 
 
-# HAPPY CODING 
+# Happy Coding 
  
